@@ -1,5 +1,4 @@
 # E-Bus-Pass Registration and Renewal System
-https://e-bus-renewal.onrender.com/
  
 E-Bus pass Registration and Renewal System is a real time project which is useful for the students who are facing problems with the current manual work of bus pass Registration and renewal in colleges. This online bus pass registration application will help students save their time and renewal bus passes without standing in a line for hours near counters in colleges. 
 
@@ -32,18 +31,35 @@ Install Finder Desk
  <li><a href="https://github.com/R-Sree-Vani">Sree Vani Ramisetti</a></li>
  </ul>
 <h2>Project Images</h2>
-Home Page<br>
-<img src="https://user-images.githubusercontent.com/92932442/238015581-674959aa-a7a2-4516-8606-dac5aef27665.png"><br>
+Home Page <br><br>
+
+![Screenshot (265)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/4314d140-fb75-41d9-82a2-f7978e18ce4f)
+
+Driver's Details<br><br>
+
+![Screenshot (266)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/b4bd2e69-7899-45b5-9f46-ea336b36ead9)
+
+User Registering for bus pass<br><br>
+
+![Screenshot (267)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/c8cc92aa-c9fd-4b3c-8d63-7d2a7483455e)
+
+Pass Renewal<br><br>
+
+![Screenshot (268)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/7108653c-dea9-4c4b-ba7a-c1cb638bd960)
+
+Admin Panel (All CRUD Operations)<br><br>
+
+![Screenshot (269)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/0cab8cf2-90aa-4a4d-97dd-b71387559bf6)
+
+Admin (View all Registrations)<br><br>
+
+![Screenshot (274)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/d8f69e93-be45-482c-8e91-a9d3348b82fa)
 
 
-Events Dashboard<br>
-<img src="https://user-images.githubusercontent.com/92932442/238015607-0c722e6b-66a8-4f0a-b7c4-813164bc6ee8.png"><br>
+Bus Pass<br><br>
 
-User Registering for an Event<br>
-<img src="https://user-images.githubusercontent.com/92932442/238015626-701d4b90-ab8e-4bf7-b36d-b80f8689e918.png"><br>
+![Screenshot (272)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/edafeda4-4536-4019-ac10-a58101493bf9)
 
-Admin Panel (All CRUD Operations)<br>
-<img src="https://user-images.githubusercontent.com/92932442/238015645-3c1c5d11-ba7e-4127-82bb-78bccdbeb3d0.png"><br>
 
 <h2>To Access Admin Panel</h2>
 <ul><li>Admin Mail Id</li></ul>
