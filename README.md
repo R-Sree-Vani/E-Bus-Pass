@@ -1,7 +1,7 @@
-# E-Bus-Pass
+# E-Bus-Pass Registration and Renewal System
 https://e-bus-renewal.onrender.com/
  
-E-Bus pass Registration and Renewal is useful for the students who are facing problems with the current manual work of bus pass Registration and renewal in colleges. This online bus pass registration application will help students save their time and renewal bus passes without standing in a line for hours near counters in colleges. 
+E-Bus pass Registration and Renewal System is a real time project which is useful for the students who are facing problems with the current manual work of bus pass Registration and renewal in colleges. This online bus pass registration application will help students save their time and renewal bus passes without standing in a line for hours near counters in colleges. 
 
 Initially students need to register with the application by submitting details of address proof, and required details and submit through online. They will verify your details and if they are satisfied they will approve bus pass.
 
@@ -10,12 +10,12 @@ It additionally expands the validity period. His/Her Renewal or Registration sho
 This application keeps all data of all Bus pass. This online Bus pass system will help students with getting bus passes on the web and take out the need to stand in a queue.
 
 <h2>Deployment Link</h2>
-<a href="https://khelsethu-q911.onrender.com/">View Deployment</a>
+<a href="https://e-bus-renewal.onrender.com/">View Deployment</a>
 
 <h2>Installation</h2>
 Install Finder Desk
 
-      git clone https://github.com/harinadh76/Khel-Sethu.git
+      git clone https://github.com/R-Sree-Vani/E-Bus-Pass.git
       
   <br>
   
