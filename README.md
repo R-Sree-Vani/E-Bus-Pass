@@ -58,7 +58,7 @@ Admin (View all Registrations)<br><br>
 
 Bus Pass<br><br>
 
-![Screenshot (272)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/edafeda4-4536-4019-ac10-a58101493bf9)
+![Screenshot (270)](https://github.com/R-Sree-Vani/E-Bus-Pass/assets/104346980/659f6798-5e41-486a-b054-036e5bcb969f)
 
 
 <h2>To Access Admin Panel</h2>
